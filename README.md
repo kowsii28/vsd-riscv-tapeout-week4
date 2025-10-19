@@ -82,7 +82,8 @@ From the SPICE simulation plots:
 - Gained hands-on experience modifying NMOS dimensions in SPICE and analyzing their impact on device delay.  
 - Interpreted **Iᴅ–Vᴅs** and **Iᴅ–Vᴳs** characteristics to understand the transition from linear to saturation regions.
 
-** Day3 - CMOS Inverter SPICE Simulation and Voltage Transfer Characteristic**
+**Day 3 – CMOS Inverter SPICE Simulation and Voltage Transfer Characteristics**
+
 
   - Introduction to **CMOS (Complementary MOS)** logic structure:
   - CMOS consists of a **PMOS** and an **NMOS** transistor connected in a complementary fashion.
