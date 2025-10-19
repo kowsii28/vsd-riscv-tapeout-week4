@@ -42,7 +42,7 @@ Understand NMOS device fundamentals, its operating regions, and learn how to per
 - Learned the importance of accurate transistor modeling and netlist creation in circuit design.
 
 
- 🧩 Day 2 – Velocity Saturation Effect and Channel Length Analysis
+ **🧩 Day 2 – Velocity Saturation Effect and Channel Length Analysis**
 
 **Objective:**  
 Understand how MOSFET channel length affects carrier velocity and explore the Velocity Saturation Effect through SPICE simulations.
@@ -82,7 +82,7 @@ From the SPICE simulation plots:
 - Gained hands-on experience modifying NMOS dimensions in SPICE and analyzing their impact on device delay.  
 - Interpreted **Iᴅ–Vᴅs** and **Iᴅ–Vᴳs** characteristics to understand the transition from linear to saturation regions.
 
-  Day3 - CMOS Inverter SPICE Simulation and Voltage Transfer Characteristics
+** Day3 - CMOS Inverter SPICE Simulation and Voltage Transfer Characteristic**
 
   - Introduction to **CMOS (Complementary MOS)** logic structure:
   - CMOS consists of a **PMOS** and an **NMOS** transistor connected in a complementary fashion.
